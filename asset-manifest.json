@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7b055c14.css",
-    "main.js": "/react-portfolio/static/js/main.8d3abba0.js",
+    "main.css": "/react-portfolio/static/css/main.59fa5db0.css",
+    "main.js": "/react-portfolio/static/js/main.ec00d859.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/yahtzee.mp4": "/react-portfolio/static/media/yahtzee.dad7c02545636495984a.mp4",
+    "static/media/raytracing.png": "/react-portfolio/static/media/raytracing.81f50549e87cf2eaf38b.png",
+    "static/media/Einden.webp": "/react-portfolio/static/media/Einden.8d79de7aba879027c144.webp",
     "static/media/CV_FARES_CHERIF.pdf": "/react-portfolio/static/media/CV_FARES_CHERIF.1d88cd95320210d249f2.pdf",
     "static/media/pic.jpg": "/react-portfolio/static/media/pic.345f5837bfaed1ee77eb.jpg",
+    "static/media/IHM.png": "/react-portfolio/static/media/IHM.c1e5dc639c72a8227741.png",
+    "static/media/robotCaligraphy.png": "/react-portfolio/static/media/robotCaligraphy.e43c040057a05d68fdb6.png",
     "static/media/mail_icon.png": "/react-portfolio/static/media/mail_icon.2a25cd7283469b50e971.png",
+    "static/media/mobile.png": "/react-portfolio/static/media/mobile.c854ada1a30ae7273d30.png",
     "index.html": "/react-portfolio/index.html",
-    "main.7b055c14.css.map": "/react-portfolio/static/css/main.7b055c14.css.map",
-    "main.8d3abba0.js.map": "/react-portfolio/static/js/main.8d3abba0.js.map",
+    "main.59fa5db0.css.map": "/react-portfolio/static/css/main.59fa5db0.css.map",
+    "main.ec00d859.js.map": "/react-portfolio/static/js/main.ec00d859.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b055c14.css",
-    "static/js/main.8d3abba0.js"
+    "static/css/main.59fa5db0.css",
+    "static/js/main.ec00d859.js"
   ]
 }
